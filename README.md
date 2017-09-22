@@ -24,9 +24,10 @@ To download all files click button {download ZIP}
 
 ## Running the tests
 
-*download all files
-*open zip file
-*open index.html
+* download all files
+* open zip file
+* open index.html
+* dss
 
 ## Built With
 
