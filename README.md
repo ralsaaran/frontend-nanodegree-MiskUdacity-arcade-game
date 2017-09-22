@@ -30,8 +30,8 @@ To download all files click button {download ZIP}
 
 ## Built With
 
-* [Udacity](https://classroom.udacity.com/nanodegrees/nd001/syllabus/core-curriculum)
-* [T.hamad](https://uconnectsaudi.slack.com/messages/D6J5U9B0C)
+* Udacity
+* T.hamad
 
 
 ## Versioning 1.0
