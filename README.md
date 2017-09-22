@@ -27,7 +27,6 @@ To download all files click button {download ZIP}
 * download all files
 * open zip file
 * open index.html
-* dss
 
 ## Built With
 
